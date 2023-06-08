@@ -524,7 +524,7 @@ class _DriverProfileTabPageState extends State<DriverProfileTabPage> {
                   }),
             ),
             Padding(
-              padding: const EdgeInsets.fromLTRB(8, 8, 8, 50),
+              padding: const EdgeInsets.fromLTRB(8, 8, 8, 40),
               child: Row(
                 children: [
                   Expanded(

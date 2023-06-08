@@ -4,7 +4,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_winged/screens/Navigation_tabs_user/chats_tab.dart';
 import 'package:flutter_winged/screens/Navigation_tabs_user/home_tab.dart';
-import 'package:flutter_winged/screens/Navigation_tabs_user/mytrips_tab.dart';
+import 'package:flutter_winged/screens/Navigation_tabs_user/mytrips_tab1.dart';
 import 'package:flutter_winged/screens/Navigation_tabs_user/notification_tab.dart';
 import 'package:flutter_winged/screens/Navigation_tabs_user/profile_tab.dart';
 import 'package:flutter_winged/screens/authentication/User_screens/login_page.dart';

@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_winged/Unused_screens/Driver_screens/driver_login.dart';
 import 'package:flutter_winged/Unused_screens/Driver_screens/driver_register.dart';
 import 'package:flutter_winged/screens/Main_screens/main_page.dart';
-import 'package:flutter_winged/screens/authentication/Driver_screens/driver_register.dart';
+import 'package:flutter_winged/Unused_screens/driver_register.dart';
 import 'package:flutter_winged/screens/authentication/User_screens/login_page.dart';
 
 class UserProfileTabPage extends StatefulWidget {

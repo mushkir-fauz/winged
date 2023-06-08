@@ -3,9 +3,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_winged/screens/Navigation_tabs_driver/chats_tab_driver.dart';
 import 'package:flutter_winged/screens/Navigation_tabs_driver/home_tab_driver.dart';
-import 'package:flutter_winged/screens/Navigation_tabs_driver/mytrips_tab_driver.dart';
 import 'package:flutter_winged/screens/Navigation_tabs_driver/notification_tab_driver.dart';
 import 'package:flutter_winged/screens/Navigation_tabs_driver/profile_tab_driver.dart';
+import '../Navigation_tabs_driver/mytrips_tab_driver1.dart';
 
 class HomePageDriver extends StatefulWidget {
   @override
